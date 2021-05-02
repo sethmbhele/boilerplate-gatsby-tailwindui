@@ -16,19 +16,23 @@
   "dependencies": {
     "@headlessui/react": "^1.1.1",
     "@heroicons/react": "^1.0.1",
-    "autoprefixer": "^10.2.5",
     "gatsby": "^3.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "prettier": "2.2.1"
+    "autoprefixer": "^10.2.5",
+    "gatsby-plugin-postcss": "^4.4.0",
+    "gatsby-plugin-purgecss": "^6.0.1",
+    "postcss": "^8.2.13",
+    "prettier": "2.2.1",
+    "tailwindcss": "^2.1.2"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/sethmbhele/boilerplate-gatsby-tailwindui"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/sethmbhele/boilerplate-gatsby-tailwindui/issues"
   }
 }
